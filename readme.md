@@ -5,3 +5,4 @@
 "测试commit中文说明2"
 "测试commit中文说明3"
 "测试commit中文说明4"
+"测试commit中文说明5"
